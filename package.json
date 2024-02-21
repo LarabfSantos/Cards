@@ -1,0 +1,19 @@
+{
+  "name": "cards",
+  "version": "1.0.0",
+  "description": "Deck of cards library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cards",
+    "components",
+    "react",
+    "typescript",
+    "ui",
+    "library"
+  ],
+  "author": "Lara Santos",
+  "license": "ISC"
+}
