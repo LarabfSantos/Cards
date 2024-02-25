@@ -11,8 +11,8 @@ class Card {
         this.rank = rank;
         this.suit = suit;
     }
-    //Method to display the card
-    displayCards() {
-        return //this card of //this suit
+    //Method to display the cards
+    public displayCards() {
+        return '${this.rank} of ${this.suit}';  //this card of //this suit
     }
 }

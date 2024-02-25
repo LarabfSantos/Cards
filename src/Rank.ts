@@ -13,5 +13,3 @@ export enum Rank {
     King = 13,
     Ace = 14 // Ace = 1 will be done in the hand evaluation logic, where the context of the cards will be determined by this
   }
-
-
